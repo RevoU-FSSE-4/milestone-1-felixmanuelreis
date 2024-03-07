@@ -32,7 +32,7 @@ The website features a clean and modern design, with a focus on simplicity and e
 
 To run the project locally, follow these steps:
 
-1. Clone the repository to your local machine using `git clone __________`
+1. Clone the repository to your local machine using `git clone https://github.com/RevoU-FSSE-4/milestone-1-felixmanuelreis.git`
 2. Navigate to the project directory using `cd techstride-solutions`(To be corrected) 
 3. Install the dependencies using `npm install`(To be completed) 
 4. Run the project using `gulp serve` (To be completed) 
