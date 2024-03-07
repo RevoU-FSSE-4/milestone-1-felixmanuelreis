@@ -129,11 +129,9 @@ p {
     }
 
 
-
     section {
         margin: 30px 0;
     }
-
 
     .content {
         padding: 20px;
@@ -237,9 +235,9 @@ p {
             margin-bottom: 20px;
         }
 
-        .justified-text {
+       /*/ .justified-text {
             text-align: justify;
-        }
+        }/*/
 
 
     @media (max-width: 1024px) {
