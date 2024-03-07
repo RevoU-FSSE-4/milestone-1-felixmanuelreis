@@ -37,10 +37,10 @@ To run the project locally, follow these steps:
 3. Install the dependencies using `npm install`(To be completed) 
 4. Run the project using `gulp serve` (To be completed) 
 
-The website is also deployed on Netlify, and can be accessed at [_______________
+The website is also deployed on Netlify, and can be accessed at [https://techstridesolutions.netlify.app](https://techstridesolutions.netlify.app/)
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (To be completed)
 
 ## Contributing
 
