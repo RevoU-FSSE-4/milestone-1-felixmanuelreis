@@ -13,7 +13,6 @@ The TechStack used in this project includes:
 
 - HTML5
 - CSS3
-
 - Git & GitHub
 
 ## Design
