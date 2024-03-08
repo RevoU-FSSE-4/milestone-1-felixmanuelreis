@@ -21,11 +21,11 @@ The website features a clean and modern design, with a focus on simplicity and e
 
 ## Process Showcase
 
-- Design the tamplate for the website using HTML and CSS for basic styles ![Draft Website](draft_web.PNG)
+- Design the tamplate for the website using HTML and CSS for basic styles ![Draft Website](draft_web.JPG)
 - Adding the content and features to the web.
 - Commit and push it to the local repository using Git (PowerShell) ![Terminal](powershel.PNG)
 - Tentative deployment to netlify ![Deployment using Netlify Domain](netlify_domain.PNG)
-- Receiving feedback for improvement, this include improving the grids responsivenes ![feedback.PNG]
+- Receiving feedback for improvement, this include improving the grids responsivenes, ![Feedback from TL](feedback.PNG)
 - Adding additional features such as the **animation** and **responsive navbar**.
 - Deploy the project using custom domain ![Deployment using Custom Domain](milestone_deployment.PNG).
 
