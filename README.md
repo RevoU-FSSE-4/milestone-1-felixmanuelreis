@@ -28,6 +28,7 @@ The website features a clean and modern design, with a focus on simplicity and e
 - Receiving feedback for improvement, this include improving the grids responsivenes, ![Feedback from TL](feedback.PNG)
 - Adding additional features such as the **animation** and **responsive navbar**.
 - Deploy the project using custom domain ![Deployment using Custom Domain](milestone_deployment.PNG).
+- Final version of the website can be seen [here](https://mountainmor.online/)
 
 ## Features
 
