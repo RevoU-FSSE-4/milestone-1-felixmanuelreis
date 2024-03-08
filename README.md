@@ -17,29 +17,39 @@ The TechStack used in this project includes:
 
 ## Design
 
-The website features a clean and modern design, with a focus on simplicity and ease of use. The color scheme consists of shades of blue and white, with clear call-to-action buttons and intuitive navigation.
+The website features a clean and modern design, with a focus on simplicity and ease of use. The color scheme consists of shades of gray and white, with clear call-to-action buttons and intuitive navigation.
+
+## Process Showcase
+
+- Design the tamplate for the website using HTML and CSS for basic styles ![Draft Website](draft_web.PNG)
+- Adding the content and features to the web.
+- Commit and push it to the local repository using Git (PowerShell) ![Terminal](powershel.PNG)
+- Tentative deployment to netlify ![Deployment using Netlify Domain](netlify_domain.PNG)
+- Receiving feedback for improvement, this include improving the grids responsivenes ![feedback.PNG]
+- Adding additional features such as the **animation** and **responsive navbar**.
+- Deploy the project using custom domain ![Deployment using Custom Domain](milestone_deployment.PNG).
 
 ## Features
 
 - Responsive design, optimized for desktop, tablet, and mobile devices
 - Clear and concise information about the company's services
-- A portfolio section displaying the company's past projects (To be completed) 
-- A contact form for potential clients to request a quote or get in touch (To be completed) 
-- Integration with Google Maps for the contact page (To be completed) 
+- Describe the history, commitment and the dedicated professional team of the company.
+- A contact link for potential clients to request a quote or get in touch. 
+
 
 ## How to Run the Project
 
 To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine using `git clone https://github.com/RevoU-FSSE-4/milestone-1-felixmanuelreis.git`
-2. Navigate to the project directory using `cd techstride-solutions`(To be corrected) 
+2. Navigate to the project directory using `cd milestone_one_project`
 3. Install the dependencies using `npm install`(To be completed) 
 4. Run the project using `gulp serve` (To be completed) 
 
-The website is also deployed on Netlify, and can be accessed at [https://techstridesolutions.netlify.app](https://techstridesolutions.netlify.app/)
+The website is also deployed on Netlify, and can be accessed at [https://mountainmor.online/](https://mountainmor.online/)
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (To be completed)
+This project is licensed under the MIT License.
 
 ## Contributing
 
